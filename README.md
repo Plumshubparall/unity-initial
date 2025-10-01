@@ -1,2 +1,2 @@
-# unity-initial
-ejercicios 
+# hello-world
+Hello world new project template.
